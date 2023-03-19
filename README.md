@@ -21,4 +21,3 @@ This is a terminal based text editor written in C. You can open and edit any tex
 
 1. For page up/down, use fn + opt + up/down arrow key.
 2. For home/end key, use fn + left/right arrow key.
-# TextEditor
