@@ -1,6 +1,6 @@
 # Text Editor
 
-This is a terminal based text editor written in C. You can open and edit any text file in it. Apart from the arrow keys, it also recognizes page up, page down, home, and end keys for an ergonomic experience. 
+This is a terminal based text editor written in C. You can open and edit any text file in it. Apart from the arrow keys, it also recognizes page up, page down, home, and end keys for an ergonomic experience. It also lets the user search for a particular text in a file and navigate through the results using arrow keys.  
 
 ## How to use
 
@@ -13,9 +13,8 @@ This is a terminal based text editor written in C. You can open and edit any tex
 
 ## TODO
 
-1. Search
-2. Syntax Highlighting
-3. Parallelize for performance
+1. Syntax Highlighting
+2. Parallelize for performance
 
 ## Note for Mac users
 
