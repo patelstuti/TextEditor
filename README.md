@@ -10,6 +10,8 @@ This is a terminal based text editor written in C. You can open and edit any tex
     ```
 2. Press ctrl + s to save any changes.
 3. Press ctrl + q to quit. 
+4. Press ctrl + f to find. Use up/down or right/left arrow keys to navigate between the results. 
+5. Press escape or enter key to exit the find function.
 
 ## TODO
 
